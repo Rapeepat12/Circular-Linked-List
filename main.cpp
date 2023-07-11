@@ -8,7 +8,7 @@ int main()
 {
     CircularLL ll;
 
-    ll.insert(5);
+    ll.insert(4);
     ll.insert(1);
     ll.insert(3);
     ll.insert(7);
